@@ -2,6 +2,7 @@
 Welcome to a real-data study about Life Expectancy! Here you will find: 
 
 1 - a discussion about data that belongs to different countries and how this data is related to the average life expectancy in it. 
+
 2 - the creation of a Machine Learning Model (regression) that is able to predict the life expectancy in a country.
 
 ## How to Run
