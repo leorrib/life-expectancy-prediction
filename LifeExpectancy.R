@@ -1,4 +1,5 @@
-setwd("/Users/renanstofel/Documents/DS/Github/LifeExpectancy")
+dir <- ''
+setwd(dir)
 getwd()
 source('src/tools.R')
 tools.load_sources()
